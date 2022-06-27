@@ -1,0 +1,4 @@
+(library
+ (name reanalyzepath))
+(ocamllex lexer)
+(ocamlyacc parser)
